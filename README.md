@@ -66,14 +66,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gharbi456/Gharbi456/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gharbi456/Gharbi456/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gharbi456/Gharbi456/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnBvZnMwZHhzNGZnZmp1eXp2ODF3cjdtMTBlbHdmOXd5dHRtcm8wMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fl3jw1xFrpmxGUrWzS/giphy.gif"  />
 
 ###
